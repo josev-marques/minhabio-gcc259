@@ -1,5 +1,7 @@
 # José Vítor A Marques
 
+<img src="./logo.jpeg" alt="ogo" style="height: 200px; width:200px; border-radius: 100%"/>
+
 - Lavras - MG
 - josev.marques01@gmail.com
 - (37) 99808-9415
